@@ -1,7 +1,7 @@
 {
   "name": "masterclass-versioning",
-  "version": "2.0.0",
-  "description": "This is version 2, an API for monsters. This used to be called animals",
+  "version": "3.0.0",
+  "description": "This is version 3, an API for creature. This used to be called animals, then monsters...",
   "main": "index.js",
   "repository": "git@github.com:Domnom/masterclass-versioning.git",
   "author": "Dominic Trang <dominic_t@hotmail.co.nz>",
