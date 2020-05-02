@@ -1,4 +1,4 @@
-class Animal
+class Creature
 {
     name: string;
 }
