@@ -1,4 +1,5 @@
-class Animal
+class CoolAnimal
 {
     name: string;
+    age: number;
 }
